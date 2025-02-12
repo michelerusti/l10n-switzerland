@@ -1,3 +1,4 @@
 # For tests
 vcrpy==4.4.0
 xmlunittest==0.5.0
+odoo-addon-account_invoice_import @ git+https://github.com/OCA/edi.git@refs/pull/1064/head#subdirectory=setup/account_invoice_import
